@@ -1,4 +1,4 @@
-# roblox-group-manager-bot
+# Roblox Group Manager Bot / Clothing Bot
 Paid roblox clothing bot that uploads assets everyday. Also comes with a lot of management features making it a group manager bot.
 
 [Discord](https://discord.gg/25SwvPQgqR)
